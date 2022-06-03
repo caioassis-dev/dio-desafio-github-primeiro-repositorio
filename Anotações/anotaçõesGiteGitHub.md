@@ -2,4 +2,11 @@
 
 ### Comandos mais usados:
 
-- aaaa
+- Git init.
+- Git clone.
+- Git branch.
+- Git checkout.
+- Git status.
+- Git add.
+- Git commit.
+- Git push.

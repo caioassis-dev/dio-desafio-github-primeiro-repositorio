@@ -2,10 +2,17 @@
 
 ### Comandos mais utilizados:
 
-- git config
-- git init
-- git clone
-- git add
-- git commit
-- git branch
-- git checkout
+- Clonar Repositório:<br>
+  $ git clone "Rep.link
+- Iniciar um repositório local: <br>
+$ git init
+- Verificar Status Local: <br>
+$ git status
+- Adicionar mudanças a Branch Master: <br>
+$ git add *
+- Commit: <br>
+$ git commit -m "Comentário"
+- Mostrar os Commits: <br>
+$ git log
+- Enviar os Commits ao gitHub: <br>
+$ git push
